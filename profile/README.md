@@ -21,7 +21,7 @@ Meet [Claw Vault](https://claw-vault.up.railway.app), a platform to share sensit
 
 Here are the cryptographic libraries used in the project:
 - [`OpenSSL`](https://crates.io/crates/openssl) - For RSA and SHA256
-- [`XORCryptor (XRC)`](https://crates.io/crates/xor_cryptor) - For customized strong XOR encryption
+- [`XORCryptor (XRC)`](https://crates.io/crates/xor_cryptor) - For strong randomized chained XOR encryption
 - [`Base64`](https://crates.io/crates/base64) - For Base64 encoding and decoding
 
 ## Privacy Policy
